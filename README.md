@@ -21,7 +21,7 @@
 
 要求 **Apple Silicon Mac、macOS 26 或更新版本**。
 
-从 [Releases](../../releases) 下载应用压缩包，解压后将“拾题.app”放入“应用程序”文件夹。当前版本采用本地 ad-hoc 签名，未进行 Apple 开发者签名与公证。
+从 [Releases](https://github.com/N7766/QuestionGlass/releases) 下载应用压缩包，解压后将“拾题.app”放入“应用程序”文件夹。当前版本采用本地 ad-hoc 签名，未进行 Apple 开发者签名与公证。
 
 打开后新建题库，输入总数即可。右上角太阳 / 月亮图标切换外观。
 
