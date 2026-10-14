@@ -7,6 +7,12 @@
 
 输入题目总数，生成数字方块。做完一道，移除一道；下次打开，继续上次的进度。
 
+## 快速体验
+
+**[下载 v1.2（Apple Silicon / macOS 26+）](https://github.com/N7766/QuestionGlass/releases/tag/v1.2)** · [构建与测试](#从源码构建) · [反馈问题](https://github.com/N7766/QuestionGlass/issues)
+
+个人实现包括原生界面、多题库状态管理、撤销操作和本地存档。源码、测试与发布包可分别检查；应用采用本地 ad-hoc 签名，尚未进行 Apple 开发者签名与公证。
+
 ## 功能
 
 - **多个题库**：自定义名称与数量，支持 1–10,000 道题。
